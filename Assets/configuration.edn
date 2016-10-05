@@ -1,0 +1,4 @@
+{:compile-ignore #{
+  "hard.core" "arcadia.core" "arcadia.linear" "arcadia.literals"}
+ }
+

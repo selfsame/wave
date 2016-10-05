@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.meta"
+			],
+			"path": "Assets"
+		},
+		{
+			"path": "samples"
+		},
+		{
+			"path": "hard"
+		}
+	]
+}
